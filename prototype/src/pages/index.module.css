@@ -1,0 +1,77 @@
+.root {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-image: url(../img/bg-greencard.png);
+	background-size: cover;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 1.5em;
+}
+
+.header {
+	padding: 4vw 4vw;
+	text-align: left;
+	width: 100%;
+}
+
+.h1, .h2 {
+	padding: 0;
+	margin: 0;
+}
+
+.h1 {
+	background-image: url(../img/roundel-white.svg);
+	background-position: 100% 0;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+.h2 {
+	font-family: 'Open Sans';
+	font-size: 1.125em;
+	font-weight: 400;
+}
+
+.tapInHeader {
+	font-size: 1.5em;
+	font-family: 'Open Sans';
+	font-weight: 700;
+	margin: 0;
+}
+
+.tapIn {
+	width: 300px;
+	height: 300px;
+	border: 12px solid black;
+	border-radius: 150px;
+	background-image: url(../img/taplogo.png);
+	background-size: 162.5%;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-color: #fed106;
+	outline: none;
+	margin: 100px auto 20px;
+}
+
+.discover {
+	color: #fff;
+	margin: 4vw 4vw 8vw !important;
+	font-size: 1em;
+	font-family: 'Open Sans';
+	font-weight: 400;
+	padding: 2vw 4vw;
+}
+
+.discover button {
+	font-size: 1.5rem !important;
+	margin-left: 1em !important;
+}
+
+/* #009dd9
+#0018a8 */

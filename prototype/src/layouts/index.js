@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import './semantic.css';
 
 const TemplateWrapper = ({ children }) => (
   <div>
@@ -9,16 +10,12 @@ const TemplateWrapper = ({ children }) => (
       meta={[
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
+        { name: 'viewport', content: 'width = device-width, initial-scale = 1.0, minimum-scale = 1, maximum-scale = 1, user-scalable = no'},
+        { name: 'apple-mobile-web-app-capable', content: 'yes'},
+        { name: 'apple-touch-icon', sizes: '144x144', content: 'apple-icon-144x144.png'},
       ]}
     />
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0,
-      }}
-    >
+    <div>
       {children()}
     </div>
   </div>

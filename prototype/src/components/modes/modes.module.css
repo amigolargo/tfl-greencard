@@ -1,0 +1,12 @@
+.paneImage {
+	margin-bottom: 0;
+	transform: scale(1.3) translateY(-2px);
+}
+
+.tabContainer {
+	overflow: hidden;
+}
+
+.root input {
+	width: 100% !important;
+}

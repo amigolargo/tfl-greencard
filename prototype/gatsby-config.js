@@ -13,7 +13,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`Hammersmith One`, `Open Sans`]
+        fonts: [
+          `Hammersmith One`,
+          `Open Sans\:300,400,700`
+        ]
       }
     },
   ],

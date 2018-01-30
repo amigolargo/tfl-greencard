@@ -1,336 +1,75 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>File:TfL mark.svg - Wikimedia Commons</title>
-<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:TfL_mark.svg","wgTitle":"TfL mark.svg","wgCurRevisionId":151067890,"wgRevisionId":151067890,"wgArticleId":7064340,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD ineligible","With trademark","Derivative versions","Transport for London roundels"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"File:TfL_mark.svg","wgRelevantArticleId":7064340,"wgRequestId":"WmyapwpAAEEAAJhP4w8AAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-});mw.loader.load(["mediawiki.action.view.metadata","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.UploadWizard","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cmediawiki.action.view.filepage%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.Long-Image-Names-in-Categories&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<noscript><link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
-<meta name="generator" content="MediaWiki 1.31.0-wmf.17"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=File:TfL_mark.svg&amp;action=edit"/>
-<link rel="edit" title="Edit" href="/w/index.php?title=File:TfL_mark.svg&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/commons.png"/>
-<link rel="shortcut icon" href="/static/favicon/commons.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Commons"/>
-<link rel="EditURI" type="application/rsd+xml" href="//commons.wikimedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="alternate" type="application/atom+xml" title="Wikimedia Commons Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:TfL_mark.svg"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject page-File_TfL_mark_svg rootpage-File_TfL_mark_svg skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
-</div>
-<h1 id="firstHeading" class="firstHeading" lang="en">File:TfL mark.svg</h1>			<div id="bodyContent" class="mw-body-content">
-				<div id="siteSub" class="noprint">From Wikimedia Commons, the free media repository</div>				<div id="contentSub"></div>
-								<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">File</a></li>
-<li><a href="#filehistory">File history</a></li>
-<li><a href="#filelinks">File usage on Commons</a></li>
-<li><a href="#globalusage">File usage on other wikis</a></li>
-<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="https://upload.wikimedia.org/wikipedia/commons/7/7d/TfL_mark.svg"><img alt="File:TfL mark.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/800px-TfL_mark.svg.png" width="800" height="290" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/1200px-TfL_mark.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/1600px-TfL_mark.svg.png 2x" data-file-width="1144" data-file-height="414" /></a><div class="mw-filepage-resolutioninfo">Size of this PNG preview of this SVG file: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/800px-TfL_mark.svg.png" class="mw-thumbnail-link">800 × 290 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/320px-TfL_mark.svg.png" class="mw-thumbnail-link">320 × 116 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/640px-TfL_mark.svg.png" class="mw-thumbnail-link">640 × 232 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/1024px-TfL_mark.svg.png" class="mw-thumbnail-link">1,024 × 371 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/1280px-TfL_mark.svg.png" class="mw-thumbnail-link">1,280 × 463 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/1144px-TfL_mark.svg.png" class="mw-thumbnail-link">1,144 × 414 pixels</a>.</span></div></div>
-<div class="fullMedia"><a href="https://upload.wikimedia.org/wikipedia/commons/7/7d/TfL_mark.svg" class="internal" title="TfL mark.svg">Original file</a> &#8206;<span class="fileInfo">(SVG file, nominally 1,144 × 414 pixels, file size: 16 KB)</span>
-</div>
-<div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:TfL_mark.svg&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="hproduct commons-file-information-table">
-<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
-<tr style="vertical-align: top">
-<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">TfL mark.svg</span></td>
-<td class="description">
-<div class="description mw-content-ltr en" dir="ltr" lang="en" style=""><span class="language en" title=""><b>English:</b></span> Transport for London (TfL) mark</div>
-</td>
-</tr>
-<tr style="vertical-align: top">
-<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
-<td lang="en"><span style="white-space:nowrap"><time class="dtstart" datetime="2009-06-19">19 June 2009</time></span></td>
-</tr>
-<tr style="vertical-align: top">
-<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
-<td><span class="int-own-work" lang="en">Own work</span></td>
-</tr>
-<tr style="vertical-align: top">
-<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
-<td>P Montiel</td>
-</tr>
-<tr style="vertical-align: top">
-<td id="fileinfotpl_perm" class="fileinfo-paramfield" lang="en">Permission<br />
-<small>(<a href="/wiki/Commons:Reusing_content_outside_Wikimedia" title="Commons:Reusing content outside Wikimedia">Reusing this file</a>)</small></td>
-<td>
-<table class="licensetpl" style="display:none">
-<tr>
-<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span></td>
-</tr>
-</table>
-<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="en">
-<tr>
-<td width="70px"><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></td>
-<td><span lang="en" class="description en"><i>This image only consists of simple geometric shapes or text. It <b>does not meet the <a href="/wiki/Commons:Threshold_of_originality" title="Commons:Threshold of originality">threshold of originality</a></b> needed for copyright protection, and is therefore in the <b><a href="https://en.wikipedia.org/wiki/public_domain" class="extiw" title="w:public domain">public domain</a></b>. Although it is free of copyright restrictions, this image may still be subject to <a href="/wiki/Commons:Non-copyright_restrictions" title="Commons:Non-copyright restrictions">other restrictions</a>. See <a href="https://en.wikipedia.org/wiki/Wikipedia:Public_domain#Fonts_and_typefaces" class="extiw" title="w:Wikipedia:Public domain">WP:PD#Fonts and typefaces</a> or <a href="/wiki/Template_talk:PD-textlogo" title="Template talk:PD-textlogo">Template talk:PD-textlogo</a> for more information.</i></span></td>
-</tr>
-</table>
-<table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa;" lang="en" dir="ltr" class="layouttemplate restrictiontemplate mw-content-ltr restriction-trademarked">
-<tr>
-<td style="border:none;" width="64px"><a href="/wiki/Commons:Non-copyright_restrictions" title="Trademarked"><img alt="Trademarked" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/64px-Trademark_Warning_Symbol.svg.png" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/96px-Trademark_Warning_Symbol.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trademark_Warning_Symbol.svg/128px-Trademark_Warning_Symbol.svg.png 2x" data-file-width="64" data-file-height="64" /></a></td>
-<td style="border:none;">
-<p><span lang="en" class="description en">This work includes material that may be protected as a <a href="https://en.wikipedia.org/wiki/en:trademark" class="extiw" title="w:en:trademark">trademark</a> in some jurisdictions. If you want to use it, you have to ensure that you have the legal right to do so and that you do not infringe any trademark rights. See our <a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">general disclaimer</a>.<br />
-<small>This tag does not indicate the copyright status of the attached work. A normal <a href="/wiki/Special:MyLanguage/Commons:Copyright_tags" title="Special:MyLanguage/Commons:Copyright tags">copyright tag</a> is still required. See <a href="/wiki/Special:MyLanguage/Commons:Licensing" title="Special:MyLanguage/Commons:Licensing">Commons:Licensing</a> for more information.</small></span></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr style="vertical-align: top">
-<td id="fileinfotpl_ver" class="fileinfo-paramfield" lang="en">Other versions</td>
-<td>
-<p>Derivative works of this file:&#160;<a href="/wiki/File:Transport_for_London_logo_(2013).svg" title="File:Transport for London logo (2013).svg">Transport for London logo (2013).svg</a>:&#160;<a href="/wiki/File:Transport_for_London_logo_(2013).svg" class="image"><img alt="Transport for London logo (2013).svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Transport_for_London_logo_%282013%29.svg/100px-Transport_for_London_logo_%282013%29.svg.png" width="100" height="31" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Transport_for_London_logo_%282013%29.svg/150px-Transport_for_London_logo_%282013%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Transport_for_London_logo_%282013%29.svg/200px-Transport_for_London_logo_%282013%29.svg.png 2x" data-file-width="512" data-file-height="157" /></a></p>
-</td>
-</tr>
-</table>
-</div>
-
-
-<!-- 
-NewPP limit report
-Parsed by mw1270
-Cached time: 20180127152840
-Cache expiry: 86400
-Dynamic content: true
-CPU time usage: 0.096 seconds
-Real time usage: 0.149 seconds
-Preprocessor visited node count: 1324/1000000
-Preprocessor generated node count: 0/1500000
-Post‐expand include size: 22555/2097152 bytes
-Template argument size: 9106/2097152 bytes
-Highest expansion depth: 18/40
-Expensive parser function count: 5/500
-Lua time usage: 0.038/10.000 seconds
-Lua memory usage: 1.11 MB/50 MB
--->
-<!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  129.676      1 -total
-100.00%  129.676      1 Template:Information
- 40.33%   52.301      3 Template:Autotranslate
- 22.54%   29.225      1 Template:Trademarked
- 18.43%   23.904      1 Template:Trademarked/layout
- 17.30%   22.433      1 Template:PD-textlogo
- 17.22%   22.335      1 Template:Non-copyright_restriction
- 15.19%   19.700      1 Template:ISOdate
- 14.92%   19.351      1 Template:Derivative_versions
-  7.76%   10.057      1 Template:F
--->
-</div>
-<!-- Saved in parser cache with key commonswiki:pcache:idhash:7064340-0!canonical and timestamp 20180127152839 and revision id 151067890
- -->
-</div><h2 id="filehistory">File history</h2>
-<div id="mw-imagepage-section-filehistory">
-<p>Click on a date/time to view the file as it appeared at that time.
-</p>
-<table class="wikitable filehistory">
-<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
-<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/7/7d/TfL_mark.svg">09:09, 22 June 2013</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/7/7d/TfL_mark.svg"><img alt="Thumbnail for version as of 09:09, 22 June 2013" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/TfL_mark.svg/120px-TfL_mark.svg.png" width="120" height="43" data-file-width="1144" data-file-height="414" /></a></td><td>1,144 × 414 <span style="white-space: nowrap;">(16 KB)</span></td><td><a href="/wiki/User:Tacsipacsi" class="mw-userlink" title="User:Tacsipacsi"><bdi>Tacsipacsi</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Tacsipacsi" class="mw-usertoollinks-talk" title="User talk:Tacsipacsi">talk</a> | <a href="/wiki/Special:Contributions/Tacsipacsi" class="mw-usertoollinks-contribs" title="Special:Contributions/Tacsipacsi">contribs</a>)</span></span></td><td dir="ltr">transparent background</td></tr>
-<tr><td></td><td  style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/archive/7/7d/20130622090901%21TfL_mark.svg">18:03, 19 June 2009</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/archive/7/7d/20130622090901%21TfL_mark.svg"><img alt="Thumbnail for version as of 18:03, 19 June 2009" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/7d/20130622090901%21TfL_mark.svg/120px-TfL_mark.svg.png" width="120" height="43" data-file-width="1144" data-file-height="414" /></a></td><td>1,144 × 414 <span style="white-space: nowrap;">(17 KB)</span></td><td><a href="/w/index.php?title=User:Pedromontiel&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Pedromontiel (page does not exist)"><bdi>Pedromontiel</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Pedromontiel" class="mw-usertoollinks-talk" title="User talk:Pedromontiel">talk</a> | <a href="/wiki/Special:Contributions/Pedromontiel" class="mw-usertoollinks-contribs" title="Special:Contributions/Pedromontiel">contribs</a>)</span></span></td><td dir="ltr">{{Information |Description={{en|1=f}} {{es|1=f}} |Source=trabajo propio (own work) |Author=<a href="/w/index.php?title=User:Pedromontiel&amp;action=edit&amp;redlink=1" class="new" title="User:Pedromontiel (page does not exist)">Pedromontiel</a> |Date=2009-06-19 |Permission= |other_versions= }}  &lt;!--{{ImageUpload|full}}--&gt; <a href="/wiki/Category:Transport_for_London_roundels" title="Category:Transport for London roundels">Category:Transport for London roundels</a></td></tr>
-</table>
-
-</div>
-<ul>
-<li id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</li>
-</ul>
-<h2 id="filelinks">File usage on Commons</h2>
-<div id='mw-imagepage-section-linkstoimage'>
-<p>The following page links to this file:
-</p><ul class="mw-imagepage-linkstoimage">
-<li class="mw-imagepage-linkstoimage-ns6"><a href="/wiki/File:Transport_for_London_logo_(2013).svg" title="File:Transport for London logo (2013).svg">File:Transport for London logo (2013).svg</a></li>
-</ul>
-</div>
-<h2 id="globalusage">File usage on other wikis</h2>
-<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
-</p><ul>
-<li class='mw-gu-onwiki-de_wikipedia_org'>Usage on de.wikipedia.org
-<ul>	<li><a class="external" href="//de.wikipedia.org/wiki/London_Underground">London Underground</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Waterloo_%26_City_Line">Waterloo &amp; City Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Bakerloo_Line">Bakerloo Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Metropolitan_Line">Metropolitan Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Hammersmith_%26_City_Line">Hammersmith &amp; City Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/East_London_Line">East London Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Victoria_Line">Victoria Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Circle_Line_(London)">Circle Line (London)</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Northern_Line">Northern Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Jubilee_Line">Jubilee Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Central_Line">Central Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Piccadilly_Line">Piccadilly Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/District_Line">District Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Transport_for_London">Transport for London</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Tramlink">Tramlink</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Docklands_Light_Railway">Docklands Light Railway</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Northern_City_Line">Northern City Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Geschlossene_Stationen_der_London_Underground">Geschlossene Stationen der London Underground</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Liste_der_Stationen_der_London_Underground">Liste der Stationen der London Underground</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/North_London_Line">North London Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/London_Overground">London Overground</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Vorlage:Navigationsleiste_Transport_for_London">Vorlage:Navigationsleiste Transport for London</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Crossrail">Crossrail</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer_Diskussion:ChristianBier/Archiv5">Benutzer Diskussion:ChristianBier/Archiv5</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Liste_der_Stationen_der_Docklands_Light_Railway">Liste der Stationen der Docklands Light Railway</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/West_London_Line">West London Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/South_London_Line">South London Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Bahnstrecke_Gospel_Oak%E2%80%93Barking">Bahnstrecke Gospel Oak–Barking</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Liste_der_Bahnh%C3%B6fe_von_London_Overground">Liste der Bahnhöfe von London Overground</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Watford_DC_Line">Watford DC Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Mind_the_gap">Mind the gap</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Vorlage:TfL">Vorlage:TfL</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Emirates_Air_Line_(Seilbahn)">Emirates Air Line (Seilbahn)</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/23._Juni_2012">Wikipedia:Löschkandidaten/23. Juni 2012</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Vorlage:TfL/Doku">Vorlage:TfL/Doku</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Adrio/Vorlagentest">Benutzer:Adrio/Vorlagentest</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/TfL_Rail">TfL Rail</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Liste_der_Buslinien_in_London">Liste der Buslinien in London</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Romford_to_Upminster_Line">Romford to Upminster Line</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Xtextexte/Navigationsleiste_Transport_for_London">Benutzer:Xtextexte/Navigationsleiste Transport for London</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Tube_map">Tube map</a></li>
-	<li><a class="external" href="//de.wikipedia.org/wiki/Crossrail_2">Crossrail 2</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-es_wikipedia_org'>Usage on es.wikipedia.org
-<ul>	<li><a class="external" href="//es.wikipedia.org/wiki/Transport_for_London">Transport for London</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-fi_wikipedia_org'>Usage on fi.wikipedia.org
-<ul>	<li><a class="external" href="//fi.wikipedia.org/wiki/Transport_for_London">Transport for London</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-hu_wikipedia_org'>Usage on hu.wikipedia.org
-<ul>	<li><a class="external" href="//hu.wikipedia.org/wiki/London_t%C3%B6megk%C3%B6zleked%C3%A9se">London tömegközlekedése</a></li>
-	<li><a class="external" href="//hu.wikipedia.org/wiki/Londoni_metr%C3%B3">Londoni metró</a></li>
-	<li><a class="external" href="//hu.wikipedia.org/wiki/Londoni_dug%C3%B3d%C3%ADj">Londoni dugódíj</a></li>
-	<li><a class="external" href="//hu.wikipedia.org/wiki/DLR">DLR</a></li>
-	<li><a class="external" href="//hu.wikipedia.org/wiki/Jubilee_line">Jubilee line</a></li>
-	<li><a class="external" href="//hu.wikipedia.org/wiki/Central_line">Central line</a></li>
-</ul></li>
-</ul>
-<p>View <a href="/wiki/Special:GlobalUsage/TfL_mark.svg" title="Special:GlobalUsage/TfL mark.svg">more global usage</a> of this file.
-</p></div><h2 id="metadata">Metadata</h2>
-<div class="mw-imagepage-section-metadata">This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.<table id="mw_metadata" class="mw_metadata collapsed">
-<tr class="exif-imagewidth mw-metadata-collapsible"><th>Width</th><td>1144.2856</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>Height</th><td>414.28571</td></tr></table>
-</div>
-<noscript><img src="//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://commons.wikimedia.org/w/index.php?title=File:TfL_mark.svg&amp;oldid=151067890">https://commons.wikimedia.org/w/index.php?title=File:TfL_mark.svg&amp;oldid=151067890</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Transport_for_London_roundels" title="Category:Transport for London roundels">Transport for London roundels</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-user-shown">Hidden categories: <ul><li><a href="/wiki/Category:PD_ineligible" title="Category:PD ineligible">PD ineligible</a></li><li><a href="/wiki/Category:With_trademark" title="Category:With trademark">With trademark</a></li><li><a href="/wiki/Category:Derivative_versions" title="Category:Derivative versions">Derivative versions</a></li></ul></div></div>				<div class="visualClear"></div>
-							</div>
-		</div>
-		<div id="mw-navigation">
-			<h2>Navigation menu</h2>
-			<div id="mw-head">
-									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
-						<h3 id="p-personal-label">Personal tools</h3>
-						<ul>
-							<li id="pt-uls" class="active"><a href="#" class="uls-trigger">English</a></li><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3ATfL+mark.svg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3ATfL+mark.svg" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
-					</div>
-									<div id="left-navigation">
-										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-						<h3 id="p-namespaces-label">Namespaces</h3>
-						<ul>
-							<li id="ca-nstab-image" class="selected"><span><a href="/wiki/File:TfL_mark.svg" title="View the file page [c]" accesskey="c">File</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=File_talk:TfL_mark.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
-					</div>
-										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-												<h3 id="p-variants-label">
-							<span>Variants</span>
-						</h3>
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-									</div>
-				<div id="right-navigation">
-										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-						<h3 id="p-views-label">Views</h3>
-						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/File:TfL_mark.svg">View</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=File:TfL_mark.svg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=File:TfL_mark.svg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></span></li>						</ul>
-					</div>
-										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-						<h3 id="p-cactions-label"><span>More</span></h3>
-						<div class="menu">
-							<ul>
-															</ul>
-						</div>
-					</div>
-										<div id="p-search" role="search">
-						<h3>
-							<label for="searchInput">Search</label>
-						</h3>
-						<form action="/w/index.php" id="searchform">
-							<div id="simpleSearch">
-								<input type="search" name="search" placeholder="Search Wikimedia Commons" title="Search Wikimedia Commons [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
-						</form>
-					</div>
-									</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
-			<h3 id='p-navigation-label'>Navigate</h3>
-			<div class="body">
-								<ul>
-					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-welcome"><a href="/wiki/Commons:Welcome">Welcome</a></li><li id="n-portal"><a href="/wiki/Commons:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-village-pump"><a href="/wiki/Commons:Village_pump">Village pump</a></li><li id="n-help"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help center</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-participate' aria-labelledby='p-participate-label'>
-			<h3 id='p-participate-label'>Participate</h3>
-			<div class="body">
-								<ul>
-					<li id="n-uploadbtn"><a href="/wiki/Commons:Upload">Upload file</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-latestfiles"><a href="/wiki/Special:NewFiles">Latest files</a></li><li id="n-randomimage"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x">Random file</a></li><li id="n-contact"><a href="/wiki/Commons:Contact_us">Contact us</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-electronPdfService-sidebar-portlet-heading' aria-labelledby='p-electronPdfService-sidebar-portlet-heading-label'>
-			<h3 id='p-electronPdfService-sidebar-portlet-heading-label'>Print/export</h3>
-			<div class="body">
-								<ul>
-					<li id="electron-print_pdf"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=File%3ATfL+mark.svg&amp;action=show-download-screen">Download as PDF</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
-			<h3 id='p-tb-label'>Tools</h3>
-			<div class="body">
-								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/File:TfL_mark.svg" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/File:TfL_mark.svg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=File:TfL_mark.svg&amp;oldid=151067890" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=File:TfL_mark.svg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File%3ATfL_mark.svg&amp;id=151067890" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-				</div>
-		</div>
-				<div id="footer" role="contentinfo">
-						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 25 February 2015, at 18:37.</li>
-								<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
-							</ul>
-						<ul id="footer-places">
-								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-								<li id="footer-places-about"><a href="/wiki/Commons:Welcome" title="Commons:Welcome">About Wikimedia Commons</a></li>
-								<li id="footer-places-disclaimer"><a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">Disclaimers</a></li>
-								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//commons.m.wikimedia.org/w/index.php?title=File:TfL_mark.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-							</ul>
-										<ul id="footer-icons" class="noprint">
-										<li id="footer-copyrightico">
-						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
-										<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
-									</ul>
-						<div style="clear: both;"></div>
-		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.149","ppvisitednodes":{"value":1324,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22555,"limit":2097152},"templateargumentsize":{"value":9106,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  129.676      1 -total","100.00%  129.676      1 Template:Information"," 40.33%   52.301      3 Template:Autotranslate"," 22.54%   29.225      1 Template:Trademarked"," 18.43%   23.904      1 Template:Trademarked/layout"," 17.30%   22.433      1 Template:PD-textlogo"," 17.22%   22.335      1 Template:Non-copyright_restriction"," 15.19%   19.700      1 Template:ISOdate"," 14.92%   19.351      1 Template:Derivative_versions","  7.76%   10.057      1 Template:F"]},"scribunto":{"limitreport-timeusage":{"value":"0.038","limit":"10.000"},"limitreport-memusage":{"value":1164151,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20180127152840","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":285,"wgHostname":"mw1270"});});</script>
-	</body>
-</html>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1144.2856"
+   height="414.28571"
+   id="svg2386"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="TfL_mark.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2388">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2394" />
+    <inkscape:perspective
+       id="perspective2403"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="955.46345"
+     inkscape:cy="380.59458"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata2391">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(259.64287,115.3521)">
+    <path
+       style="fill:#fff;fill-opacity:1"
+       d="M -44.97471,219.89325 C -77.3098,214.4745 -108.76146,194.88401 -128.97314,167.57264 C -136.71633,157.10953 -145.95097,138.58615 -148.98503,127.43164 C -150.24566,122.79701 -151.44169,118.44254 -151.64288,117.75504 C -151.917,116.81829 -156.2767,116.50504 -169.04005,116.50504 L -186.07144,116.50504 L -186.07144,89.00504 L -186.07144,61.50504 L -169.10998,61.50504 L -152.14853,61.50504 L -151.07573,57.25504 C -139.81384,12.64009 -106.36103,-23.34858 -62.97182,-37.527514 C -36.44615,-46.195701 -4.79805,-45.980022 21.50464,-36.951816 C 62.89573,-22.744623 96.87921,13.79229 106.79588,54.74798 L 108.42856,61.49093 L 125.67856,61.49798 L 142.92856,61.50504 L 142.92856,89.00504 L 142.92856,116.50504 L 125.42856,116.50504 C 109.63112,116.50504 107.92856,116.67028 107.92856,118.20344 C 107.92856,121.41388 102.76722,136.81798 98.85215,145.29214 C 93.00653,157.94495 84.67759,169.80093 73.64955,181.16722 C 53.14493,202.30074 29.13965,215.0986 1.00234,219.8974 C -10.56608,221.87039 -33.18878,221.86835 -44.97471,219.89325 z M -12.04521,174.44418 C 18.22783,170.6542 45.70617,150.43622 57.01539,123.63086 L 59.81083,117.00504 L -21.29106,116.74912 C -65.89709,116.60837 -102.60363,116.70389 -102.86113,116.9614 C -103.11864,117.2189 -101.68402,120.89413 -99.6731,125.12856 C -86.69778,152.45089 -61.76818,170.51795 -31.59941,174.46315 C -22.80259,175.61351 -21.37436,175.61213 -12.04521,174.44418 z M 59.92856,60.98308 C 59.92856,60.69601 58.64182,57.62328 57.06914,54.1548 C 46.10661,29.97746 25.21337,12.30259 -0.57144,5.3931 C -11.96636,2.33964 -31.35376,2.32834 -42.57144,5.36863 C -67.73379,12.18829 -87.3917,28.13927 -98.81352,51.00504 C -100.46192,54.30504 -102.12463,58.01754 -102.50842,59.25504 L -103.20622,61.50504 L -21.63883,61.50504 C 23.22324,61.50504 59.92856,61.27016 59.92856,60.98308 z M 293.42856,192.6358 C 283.81111,190.11339 275.21714,182.53589 271.84715,173.60696 C 269.08829,166.29727 269.51879,155.10189 272.80438,148.71355 C 275.7801,142.92771 282.12586,136.76443 287.77939,134.16916 C 294.28293,131.18369 306.56205,131.17794 313.05096,134.15732 C 319.19939,136.98037 325.34315,142.6643 327.85523,147.85356 C 337.85639,168.5132 325.15526,191.46351 302.87995,192.98265 C 299.33169,193.22464 295.07856,193.06856 293.42856,192.6358 z M 307.2443,178.38008 C 316.49745,173.61441 319.92499,162.60878 314.92606,153.71438 C 310.72992,146.24836 300.53752,143.07029 293.10909,146.91169 C 284.82708,151.19448 281.44906,162.87938 286.15242,170.97547 C 289.4553,176.66084 294.12021,179.50504 300.14218,179.50504 C 302.84701,179.50504 306.04296,178.99881 307.2443,178.38008 z M 498.87912,192.14306 C 485.6618,188.57832 476.82933,176.97776 476.69393,163.00504 C 476.61917,155.29093 478.17246,149.84888 481.92924,144.6628 C 493.30026,128.96556 515.95774,127.19798 529.33714,140.96437 C 539.56971,151.49291 540.84684,168.45209 532.30229,180.33911 C 524.74695,190.84995 511.47014,195.53888 498.87912,192.14306 z M 516.692,176.84624 C 529.86102,167.08105 523.60002,145.50077 507.52737,145.25779 C 498.08221,145.11501 490.69779,152.62182 490.69779,162.36632 C 490.69779,169.24464 493.97214,174.63848 500.42856,178.39581 C 503.50979,180.18894 513.46304,179.2406 516.692,176.84624 z M 636.35953,191.68732 C 628.15797,188.85195 623.58827,184.48858 619.72355,175.80253 C 616.85984,169.36626 616.67637,157.20213 619.32779,149.5634 C 621.92863,142.0704 628.88247,135.19014 635.98722,133.08026 C 644.19406,130.64309 648.908,131.04599 658.17856,134.97697 C 659.79193,135.66108 659.92856,134.7347 659.92856,123.11203 L 659.92856,110.50504 L 666.92856,110.50504 L 673.92856,110.50504 L 673.92856,151.00504 L 673.92856,191.50504 L 667.42856,191.50504 C 661.52389,191.50504 660.92856,191.31563 660.92856,189.43695 C 660.92856,187.38323 660.90944,187.38217 658.17856,189.28399 C 651.73676,193.77016 644.64412,194.55141 636.35953,191.68732 z M 656.46068,179.05607 L 659.92856,177.60709 L 659.92856,162.58175 L 659.92856,147.5564 L 656.97822,146.03072 C 652.37153,143.64851 642.9321,144.02807 638.88051,146.75844 C 628.44367,153.79183 628.96835,172.07413 639.78709,178.34754 C 644.11567,180.85753 651.40756,181.16739 656.46068,179.05607 z M 709.42856,192.16881 C 695.74632,187.62757 686.92856,176.02845 686.92856,162.57171 C 686.92856,153.66584 689.50234,147.74608 696.35285,140.89556 C 703.94408,133.30433 710.40615,130.8869 720.57003,131.83602 C 736.92348,133.36313 748.32986,145.96489 748.32986,162.50504 C 748.32986,171.29732 746.16566,177.0231 740.45176,183.34766 C 733.21855,191.35398 719.08315,195.37324 709.42856,192.16881 z M 726.45029,177.04517 C 729.6339,175.17945 731.18952,173.32591 732.89077,169.37125 C 735.34478,163.66674 735.22297,160.03508 732.37643,154.03644 C 728.25623,145.35375 715.98929,142.43972 708.00595,148.2472 C 704.56375,150.75123 700.92334,158.08822 700.95052,162.46693 C 700.9929,169.29469 705.83711,176.4946 711.92856,178.78351 C 715.74985,180.21939 722.39029,179.42449 726.45029,177.04517 z M 230.92856,167.50504 L 230.92856,143.50504 L 226.42856,143.50504 L 221.92856,143.50504 L 221.92856,138.00504 L 221.92856,132.50504 L 226.33472,132.50504 L 230.74088,132.50504 L 231.44567,127.25504 C 232.30353,120.8648 234.30497,115.79772 237.17999,112.7374 C 240.50457,109.19855 248.90152,107.16206 256.7173,107.99906 C 266.01263,108.9945 265.92856,108.92852 265.92856,115.22866 C 265.92856,120.45856 265.81432,120.70697 263.67856,120.12114 C 252.32018,117.00558 246.7516,119.65836 245.25201,128.89927 L 244.66688,132.50504 L 254.79772,132.50504 L 264.92856,132.50504 L 264.92856,138.00504 L 264.92856,143.50504 L 254.92856,143.50504 L 244.92856,143.50504 L 244.92856,167.50504 L 244.92856,191.50504 L 237.92856,191.50504 L 230.92856,191.50504 L 230.92856,167.50504 z M 344.92856,162.00504 L 344.92856,132.50504 L 351.42856,132.50504 L 357.92856,132.50504 L 357.92856,135.55216 L 357.92856,138.59929 L 361.82682,135.46656 C 364.92712,132.97509 366.97407,132.22058 371.82682,131.78055 L 377.92856,131.22726 L 377.92856,137.77253 C 377.92856,143.82989 377.77917,144.27873 375.9245,143.79373 C 373.12675,143.0621 365.12462,145.22924 361.74933,147.63266 L 358.92856,149.64123 L 358.92856,170.57313 L 358.92856,191.50504 L 351.92856,191.50504 L 344.92856,191.50504 L 344.92856,162.00504 z M 418.92856,151.00504 L 418.92856,110.50504 L 426.92856,110.50504 L 434.92856,110.50504 L 434.92856,144.00504 L 434.92856,177.50504 L 451.92856,177.50504 L 468.92856,177.50504 L 468.92856,184.50504 L 468.92856,191.50504 L 443.92856,191.50504 L 418.92856,191.50504 L 418.92856,151.00504 z M 551.92856,162.00504 L 551.92856,132.50504 L 557.92856,132.50504 C 563.66189,132.50504 563.92856,132.61615 563.92856,135.00504 C 563.92856,138.07748 563.99508,138.07825 568.44738,135.05683 C 577.8745,128.65942 594.51386,131.38796 600.41035,140.29816 C 604.00173,145.7251 604.92856,152.46231 604.92856,173.14153 L 604.92856,191.50504 L 597.92856,191.50504 L 590.92856,191.50504 L 590.92856,172.97292 C 590.92856,153.03622 590.19876,149.20856 585.81169,146.13573 C 582.35199,143.71246 574.30839,144.03983 569.42856,146.80251 L 565.42856,149.06708 L 565.15867,170.28606 L 564.88878,191.50504 L 558.40867,191.50504 L 551.92856,191.50504 L 551.92856,162.00504 z M 761.92856,162.00504 L 761.92856,132.50504 L 768.42856,132.50504 C 774.64496,132.50504 774.92856,132.61103 774.92856,134.93464 L 774.92856,137.36425 L 779.39946,134.86539 C 789.04336,129.47532 802.61496,131.09492 809.23846,138.42627 C 811.19476,140.59174 813.27286,144.08283 813.85646,146.18426 C 814.44656,148.30948 814.91986,159.21334 814.92296,170.75504 L 814.92856,191.50504 L 808.54706,191.50504 L 802.16566,191.50504 L 801.73986,172.25504 C 801.27556,151.25995 800.50406,147.99956 795.45646,145.69973 C 791.47946,143.88766 785.05496,144.26543 780.24426,146.59425 L 775.92856,148.68345 L 775.92856,170.09425 L 775.92856,191.50504 L 768.92856,191.50504 L 761.92856,191.50504 L 761.92856,162.00504 z M 527.92856,50.50504 L 527.92856,9.50504 L 534.42856,9.50504 C 540.26189,9.50504 540.92856,9.71017 540.92856,11.50504 C 540.92856,13.99668 540.98769,13.99353 545.6214,11.25504 C 550.92867,8.11849 562.61696,8.09198 568.49162,11.20317 C 574.42564,14.3458 579.68614,20.24119 581.94609,26.28145 C 584.66588,33.55074 584.64369,45.51867 581.89679,52.8604 C 579.49532,59.27891 572.34679,66.52 566.37287,68.58532 C 560.65288,70.56285 549.17838,70.35585 545.17856,68.20297 L 541.92856,66.45368 L 541.92856,78.97936 L 541.92856,91.50504 L 534.92856,91.50504 L 527.92856,91.50504 L 527.92856,50.50504 z M 562.80794,55.74577 C 567.77122,52.04015 569.34555,48.81702 569.75805,41.5168 C 570.07189,35.96258 569.73172,33.72988 568.03885,30.23286 C 564.28891,22.48652 554.24384,19.25733 545.39644,22.95401 L 541.92856,24.40299 L 541.92856,39.84706 L 541.92856,55.29113 L 545.67856,56.90722 C 550.44024,58.95929 559.30923,58.35794 562.80794,55.74577 z M 348.92856,69.39423 C 338.78468,66.36076 334.17187,54.83104 339.06127,44.7309 C 342.77753,37.05413 352.84253,31.80922 367.22141,30.05653 C 372.55926,29.40588 372.96527,29.17976 372.3906,27.17773 C 371.42098,23.79983 367.16741,20.51567 363.6228,20.40815 C 356.19133,20.18273 352.10813,20.79162 346.80793,22.91563 L 341.1873,25.16805 L 342.52231,19.58654 C 343.25656,16.51672 343.87335,13.50102 343.89294,12.885 C 343.95644,10.88832 353.19607,9.00504 362.92856,9.00504 C 371.21885,9.00504 372.9903,9.32338 376.83998,11.50504 C 385.67132,16.50986 386.87638,21.14773 386.90845,50.25504 L 386.92856,68.50504 L 380.42856,68.50504 C 374.50856,68.50504 373.92856,68.31914 373.92856,66.42171 C 373.92856,65.27587 373.59106,64.51134 373.17856,64.72275 C 363.07899,69.89878 355.4988,71.35901 348.92856,69.39423 z M 368.40181,56.30577 L 372.92856,54.10651 L 372.92856,46.66985 L 372.92856,39.23319 L 368.39899,39.85404 C 361.40923,40.81209 354.04942,44.37064 352.37969,47.59955 C 350.35323,51.51828 350.55565,53.22304 353.38311,56.05049 C 356.54515,59.21254 362.22026,59.309 368.40181,56.30577 z M 484.10485,69.49736 C 481.72681,68.9951 477.33931,67.46626 474.35485,66.09993 L 468.92856,63.61569 L 468.92856,56.97703 C 468.92856,53.32577 469.26606,50.48837 469.67856,50.67171 C 470.09106,50.85504 473.5575,52.53417 477.38176,54.4031 C 486.5661,58.89153 496.55025,59.88335 499.80316,56.63044 C 504.32795,52.10565 501.54025,48.86114 489.80169,44.99004 C 485.19647,43.47135 479.79767,41.41067 477.80435,40.41076 C 463.19213,33.0808 465.64786,14.54959 481.85585,9.8378 C 488.78774,7.82264 498.82484,8.54445 505.84083,11.56265 L 510.92856,13.75133 L 510.92856,20.14503 L 510.92856,26.53873 L 505.69805,23.88823 C 495.91184,18.92918 482.92856,19.77587 482.92856,25.37311 C 482.92856,28.32458 485.83362,30.06162 496.39915,33.42766 C 511.98621,38.3935 516.60543,43.32928 515.71497,54.06716 C 515.18282,60.4841 512.31464,64.65564 506.49909,67.4709 C 501.42928,69.92515 490.71905,70.89432 484.10485,69.49736 z M 617.42856,69.57465 C 607.91376,67.27312 599.2892,59.72984 595.89831,50.7437 C 593.0869,43.29324 593.49,32.15787 596.80438,25.71355 C 599.7801,19.92771 606.12586,13.76443 611.77939,11.16916 C 619.02226,7.84431 630.64104,8.12726 638.143,11.81119 C 651.67466,18.45609 658.37263,34.27773 653.93059,49.10394 C 649.54433,63.74394 632.60254,73.24507 617.42856,69.57465 z M 633.00688,54.23124 C 643.93333,46.86791 643.73791,30.70039 632.64711,24.46701 C 625.79927,20.61831 617.60791,21.90031 612.24517,27.66003 C 605.28666,35.13365 607.07119,48.31504 615.84167,54.22547 C 620.50448,57.36774 628.34872,57.37038 633.00688,54.23124 z M 729.42856,69.57633 C 722.80835,67.97867 717.75882,63.15567 715.97257,56.72399 C 715.4045,54.67857 714.9372,45.69254 714.93414,36.75504 L 714.92856,20.50504 L 709.92856,20.50504 L 704.92856,20.50504 L 704.92856,15.00504 L 704.92856,9.50504 L 709.92856,9.50504 L 714.92856,9.50504 L 714.92856,2.50504 L 714.92856,-4.49496 L 721.92856,-4.49496 L 728.92856,-4.49496 L 728.92856,2.50504 L 728.92856,9.50504 L 739.42856,9.50504 L 749.92856,9.50504 L 749.92856,15.00504 L 749.92856,20.50504 L 739.42856,20.50504 L 728.92856,20.50504 L 728.92856,37.05049 C 728.92856,53.28394 728.97485,53.64224 731.38311,56.05049 C 734.30707,58.97446 740.88116,59.38732 746.58276,57.00504 C 748.55726,56.18004 750.34286,55.50504 750.55066,55.50504 C 750.75856,55.50504 750.92856,58.36792 750.92856,61.86699 L 750.92856,68.22894 L 745.26176,69.36699 C 739.03056,70.6184 734.02107,70.68464 729.42856,69.57633 z M 246.92856,35.00504 L 246.92856,1.50504 L 234.92856,1.50504 L 222.92856,1.50504 L 222.92856,-5.49496 L 222.92856,-12.49496 L 254.42856,-12.49496 L 285.92856,-12.49496 L 285.92856,-5.49496 L 285.92856,1.50504 L 273.92856,1.50504 L 261.92856,1.50504 L 261.92856,35.00504 L 261.92856,68.50504 L 254.42856,68.50504 L 246.92856,68.50504 L 246.92856,35.00504 z M 297.92856,39.00504 L 297.92856,9.50504 L 303.92856,9.50504 C 309.92856,9.50504 309.92856,9.50504 309.92856,12.50504 C 309.92856,16.05107 310.92021,16.28884 313.52357,13.36702 C 316.2088,10.35332 321.10242,8.50504 326.39644,8.50504 L 330.92856,8.50504 L 330.92254,14.75504 L 330.91652,21.00504 L 325.55874,21.0802 C 321.62929,21.13533 318.96498,21.87969 315.56476,23.87236 L 310.92856,26.58935 L 310.92856,47.54719 L 310.92856,68.50504 L 304.42856,68.50504 L 297.92856,68.50504 L 297.92856,39.00504 z M 402.92856,39.00504 L 402.92856,9.50504 L 409.42856,9.50504 C 415.72397,9.50504 415.92856,9.58506 415.92856,12.04719 L 415.92856,14.58935 L 420.67856,11.79719 C 424.83811,9.35212 426.423,9.01113 433.42856,9.05399 C 442.15965,9.10742 445.54947,10.34824 450.12551,15.16576 C 455.41738,20.7369 455.92856,23.53872 455.92856,46.97292 L 455.92856,68.50504 L 449.52058,68.50504 L 443.11261,68.50504 L 442.7542,49.25504 C 442.36281,28.23356 441.60697,25.04644 436.4565,22.69973 C 432.47944,20.88766 426.05497,21.26543 421.24428,23.59425 L 416.92856,25.68345 L 416.92856,47.09425 L 416.92856,68.50504 L 409.92856,68.50504 L 402.92856,68.50504 L 402.92856,39.00504 z M 668.92856,39.00504 L 668.92856,9.50504 L 675.42856,9.50504 L 681.92856,9.50504 L 681.92856,12.55216 L 681.92856,15.59929 L 685.82682,12.46656 C 688.92712,9.97509 690.97407,9.22058 695.82682,8.78055 L 701.92856,8.22726 L 701.92856,14.77253 C 701.92856,20.82989 701.77917,21.27873 699.9245,20.79373 C 697.12675,20.0621 689.12462,22.22924 685.74933,24.63266 L 682.92856,26.64123 L 682.92856,47.57313 L 682.92856,68.50504 L 675.92856,68.50504 L 668.92856,68.50504 L 668.92856,39.00504 z"
+       id="path2409" />
+  </g>
+</svg>
