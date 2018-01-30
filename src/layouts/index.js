@@ -12,7 +12,7 @@ const TemplateWrapper = ({ children }) => (
         { name: 'keywords', content: 'sample, something' },
         { name: 'viewport', content: 'width = device-width, initial-scale = 1.0, minimum-scale = 1, maximum-scale = 1, user-scalable = no'},
         { name: 'apple-mobile-web-app-capable', content: 'yes'},
-        { name: 'apple-touch-icon', sizes: '144x144', content: 'apple-icon-144x144.png'},
+        { name: 'apple-touch-icon', sizes: '144x144', content: 'img/apple-icon-144x144.png'},
       ]}
     />
     <div>
