@@ -24,4 +24,12 @@ gatsby build
 
 ```
 gatsby serve
-``` 
+```
+
+![tfl greencard](screenshots/01.png)
+
+![tfl greencard](screenshots/02.png)
+
+![tfl greencard](screenshots/05.png)
+
+![tfl greencard](screenshots/08.png)
