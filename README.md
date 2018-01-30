@@ -1,13 +1,27 @@
-# gatsby-starter-default
-The default Gatsby starter
+# tfl-greencard
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+To run locally, you will need to install Node / npm: https://nodejs.org/en/download/
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+To check the installation, run ```node -v``` and ```npm -v```
+
+Then install the command line interface for [Gatsby](https://www.gatsbyjs.org/)
+
+```npm install --global gatsby-cli```
+
+
+
+## Development build
 ```
-gatsby new gatsby-example-site
+gatsby develop
 ```
 
-## Deploy
+## Production build
+```
+gatsby build
+```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+## Serve the production build
+
+```
+gatsby serve
+``` 
